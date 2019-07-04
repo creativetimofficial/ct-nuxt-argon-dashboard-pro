@@ -1,17 +1,17 @@
-# [Vue Argon Dashboard PRO](https://demos.creative-tim.com/vue-argon-dashboard-pro/#/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fcreativetimofficial.github.io%2Fvue-argon-dashboard-pro&text=Argon%20Dashboard%20PRO%20React%20-%20Premium%20Reactstrap%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%vue-argon-dashboard-pro%2F%3F_ga%3D2.234372891.44370326.1533641128-1803433978.1528781151&via=creativetim&hashtags=react%2Creactstrap)
+# [Nuxt Argon Dashboard PRO](https://demos.creative-tim.com/nuxt-argon-dashboard-pro/#/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fcreativetimofficial.github.io%2Fnuxt-argon-dashboard-pro&text=Nuxt%20Argon%20Dashboard%20PRO%20-%20Premium%20Bootstrap%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%nuxt-argon-dashboard-pro%2F%3F_ga%3D2.234372891.44370326.1533641128-1803433978.1528781151&via=creativetim&hashtags=vuejs%2Cnuxtjs)
 
 
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-argon-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-argon-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-argon-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro/issues-react?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-nuxt-argon-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-nuxt-argon-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-argon-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-nuxt-argon-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Gif](https://github.com/creativetimofficial/public-assets/blob/master/vue-argon-dashboard-pro/vue-argon-dashboard-pro.gif)
 
-Start your development with a premium dashboard for Bootstrap 4, Reactstrap and React. Argon perfectly combines reusable HTML and React and modular CSS with a modern styling and beautiful markup throughout each HTML template in the pack.
+Start your development with a premium dashboard for Nuxt.js, Bootstrap 4 and Vue.js. Nuxt Argon Dashboard PRO perfectly combines reusable HTML, Vue.js and modular CSS with a modern styling and beautiful markup throughout each HTML template in the pack.
 
 
 #### Fully Coded Components
 
-Vue Argon Dashboard PRO is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files.
+Nuxt Argon Dashboard PRO is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files.
 
 You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
@@ -35,6 +35,7 @@ During the development of this dashboard, we have used many existing resources f
 + [dropzone v5.5.1](https://www.dropzonejs.com/?ref=creativetim)
 + [nouislider v12.1.0](https://refreshless.com/nouislider/?ref=creativetim)
 + [vue v2.6.10](https://vuejs.org/?ref=creativetim)
++ [nuxt v2.8.1](https://nuxtjs.org/?ref=creativetim)
 + [bootstrap v4.3.1](https://getbootstrap.com/?ref=creativetim)
 + [vee-validate v2.2.4](https://baianat.github.io/vee-validate/?ref=creativetim)
 + [vue2-transitions v0.2.3](https://github.com/BinarCode/vue2-transitions/?ref=creativetim)
@@ -79,18 +80,18 @@ Let us know your thoughts below. And good luck with development!
 | --- | --- | ---  |
 | [![Pricing Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-argon-dashboard-pro/pricing-page.png)](https://demos.creative-tim.com/vue-argon-dashboard-pro/#/pricing)  | [![Login Page](https://github.com/creativetimofficial/public-assets/blob/master/vue-argon-dashboard-pro/login-page.png?raw=true)](https://demos.creative-tim.com/vue-argon-dashboard-pro/#/login)  | [![Profile Page](https://github.com/creativetimofficial/public-assets/blob/master/vue-argon-dashboard-pro/profile-page.png?raw=true)](https://demos.creative-tim.com/vue-argon-dashboard-pro/#/pages/user)  
 
-[View More](https://demos.creative-tim.com/vue-argon-dashboard-pro)
+[View More](https://demos.creative-tim.com/nuxt-argon-dashboard-pro)
 
 
 ## Quick start
 
 Quick start options:
 
-- Buy from [Creative Tim](https://www.creative-tim.com/product/vue-argon-dashboard-pro)
+- Buy from [Creative Tim](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro)
 
 
 ## Documentation
-The documentation for the Vue Argon Dashboard PRO is hosted at our [website](https://demos.creative-tim.com/vue-argon-dashboard-pro/#/documentation/overview).
+The documentation for the Vue Argon Dashboard PRO is hosted at our [website](https://demos.creative-tim.com/nuxt-argon-dashboard-pro/#/documentation/overview).
 
 
 ## File Structure
@@ -98,12 +99,16 @@ The documentation for the Vue Argon Dashboard PRO is hosted at our [website](htt
 Within the download you'll find the following directories and files:
 
 ```
-|-- vue-argon-dashboard-pro
-    |-- App.vue
-    |-- main.js
+|-- nuxt-argon-dashboard-pro
+    |-- README.md
+    |-- app.html
+    |-- nuxt.config.js
+    |-- package.json
     |-- polyfills.js
+    |-- yarn.lock
     |-- assets
     |   |-- css
+    |   |   |-- font-awesome
     |   |   |-- nucleo
     |   |-- sass
     |       |-- argon.scss
@@ -116,168 +121,215 @@ Within the download you'll find the following directories and files:
     |           |-- _variables.scss
     |           |-- _vendors.scss
     |-- components
-    |   |-- Badge.vue
-    |   |-- BaseAlert.vue
-    |   |-- BaseButton.vue
-    |   |-- BaseDropdown.vue
-    |   |-- BaseHeader.vue
-    |   |-- BasePagination.vue
-    |   |-- BaseProgress.vue
-    |   |-- BaseSwitch.vue
-    |   |-- BaseTable.vue
-    |   |-- CloseButton.vue
-    |   |-- LoadingPanel.vue
-    |   |-- Modal.vue
-    |   |-- NavbarToggleButton.vue
-    |   |-- Slider.vue
-    |   |-- index.js
-    |   |-- Breadcrumb
-    |   |   |-- Breadcrumb.vue
-    |   |   |-- BreadcrumbItem.vue
-    |   |   |-- RouteBreadcrumb.vue
-    |   |-- Cards
-    |   |   |-- Card.vue
-    |   |   |-- StatsCard.vue
-    |   |-- Charts
-    |   |   |-- BarChart.js
-    |   |   |-- DoughnutChart.js
-    |   |   |-- LineChart.js
-    |   |   |-- PieChart.js
-    |   |   |-- config.js
-    |   |   |-- globalOptionsMixin.js
-    |   |   |-- optionHelpers.js
-    |   |-- Collapse
-    |   |   |-- Collapse.vue
-    |   |   |-- CollapseItem.vue
-    |   |-- Feed
-    |   |   |-- Comment.vue
-    |   |-- Inputs
-    |   |   |-- BaseCheckbox.vue
-    |   |   |-- BaseInput.vue
-    |   |   |-- BaseRadio.vue
-    |   |   |-- DropzoneFileUpload.vue
-    |   |   |-- FileInput.vue
-    |   |   |-- HtmlEditor.vue
-    |   |   |-- IconCheckbox.vue
-    |   |   |-- TagsInput.vue
-    |   |-- Navbar
-    |   |   |-- BaseNav.vue
+    |   |-- argon-core
+    |   |   |-- Badge.vue
+    |   |   |-- BaseAlert.vue
+    |   |   |-- BaseButton.vue
+    |   |   |-- BaseDropdown.vue
+    |   |   |-- BaseHeader.vue
+    |   |   |-- BasePagination.vue
+    |   |   |-- BaseProgress.vue
+    |   |   |-- BaseSlider.vue
+    |   |   |-- BaseSwitch.vue
+    |   |   |-- BaseTable.vue
+    |   |   |-- ButtonCheckbox.vue
+    |   |   |-- ButtonRadioGroup.vue
+    |   |   |-- CloseButton.vue
+    |   |   |-- LoadingPanel.vue
+    |   |   |-- Modal.vue
     |   |   |-- NavbarToggleButton.vue
-    |   |-- NotificationPlugin
-    |   |   |-- Notification.vue
-    |   |   |-- Notifications.vue
     |   |   |-- index.js
-    |   |-- SidebarPlugin
-    |   |   |-- SideBar.vue
-    |   |   |-- SidebarItem.vue
-    |   |   |-- index.js
-    |   |-- Tabs
-    |   |   |-- Tab.vue
-    |   |   |-- Tabs.vue
-    |   |-- Timeline
-    |   |   |-- TimeLine.vue
-    |   |   |-- TimeLineItem.vue
-    |   |-- WorldMap
-    |       |-- AsyncWorldMap.vue
-    |       |-- WorldMap.vue
-    |-- directives
-    |   |-- click-ouside.js
+    |   |   |-- Breadcrumb
+    |   |   |   |-- Breadcrumb.vue
+    |   |   |   |-- BreadcrumbItem.vue
+    |   |   |   |-- RouteBreadcrumb.vue
+    |   |   |-- Cards
+    |   |   |   |-- Card.vue
+    |   |   |   |-- StatsCard.vue
+    |   |   |-- Charts
+    |   |   |   |-- BarChart.js
+    |   |   |   |-- DoughnutChart.js
+    |   |   |   |-- LineChart.js
+    |   |   |   |-- PieChart.js
+    |   |   |   |-- config.js
+    |   |   |   |-- globalOptionsMixin.js
+    |   |   |   |-- optionHelpers.js
+    |   |   |-- Collapse
+    |   |   |   |-- Collapse.vue
+    |   |   |   |-- CollapseItem.vue
+    |   |   |-- Feed
+    |   |   |   |-- Comment.vue
+    |   |   |-- Inputs
+    |   |   |   |-- BaseCheckbox.vue
+    |   |   |   |-- BaseInput.vue
+    |   |   |   |-- BaseRadio.vue
+    |   |   |   |-- DropzoneFileUpload.vue
+    |   |   |   |-- FileInput.vue
+    |   |   |   |-- HtmlEditor.vue
+    |   |   |   |-- IconCheckbox.vue
+    |   |   |   |-- TagsInput.vue
+    |   |   |-- Navbar
+    |   |   |   |-- BaseNav.vue
+    |   |   |   |-- NavbarToggleButton.vue
+    |   |   |-- NotificationPlugin
+    |   |   |   |-- Notification.vue
+    |   |   |   |-- Notifications.vue
+    |   |   |   |-- index.js
+    |   |   |-- SidebarPlugin
+    |   |   |   |-- SideBar.vue
+    |   |   |   |-- SidebarItem.vue
+    |   |   |   |-- index.js
+    |   |   |-- Tabs
+    |   |   |   |-- Tab.vue
+    |   |   |   |-- Tabs.vue
+    |   |   |-- Timeline
+    |   |   |   |-- TimeLine.vue
+    |   |   |   |-- TimeLineItem.vue
+    |   |   |-- WorldMap
+    |   |       |-- AsyncWorldMap.vue
+    |   |       |-- WorldMap.vue
+    |   |-- feed
+    |   |   |-- Comment.vue
+    |   |-- layouts
+    |   |   |-- argon
+    |   |       |-- Content.vue
+    |   |       |-- ContentFooter.vue
+    |   |       |-- DashboardNavbar.vue
+    |   |-- pages
+    |   |   |-- UserProfile
+    |   |   |   |-- EditProfileForm.vue
+    |   |   |   |-- UserCard.vue
+    |   |   |-- dashboard
+    |   |   |   |-- ActivityFeed.vue
+    |   |   |   |-- LightTable.vue
+    |   |   |   |-- PageVisitsTable.vue
+    |   |   |   |-- ProgressTrackList.vue
+    |   |   |   |-- SocialTrafficTable.vue
+    |   |   |   |-- TaskList.vue
+    |   |   |   |-- UserList.vue
+    |   |   |-- forms
+    |   |   |   |-- BrowserDefaultsValidation.vue
+    |   |   |   |-- CustomStylesValidation.vue
+    |   |   |   |-- ServerSideValidation.vue
+    |   |   |-- register
+    |   |       |-- FailedRegistration.vue
+    |   |       |-- SuccessfulRegistration.vue
+    |   |-- tables
+    |   |   |-- projects.js
+    |   |   |-- users.js
+    |   |   |-- users2.js
+    |   |   |-- PaginatedTables
+    |   |   |   |-- clientPaginationMixin.js
+    |   |   |-- RegularTables
+    |   |       |-- CheckboxColoredTable.vue
+    |   |       |-- CheckboxTable.vue
+    |   |       |-- DarkTable.vue
+    |   |       |-- InlineActionsTable.vue
+    |   |       |-- LightTable.vue
+    |   |       |-- StripedTable.vue
+    |   |       |-- TranslucentTable.vue
+    |   |-- widgets
+    |       |-- CalendarWidget.vue
+    |       |-- CreditCard.vue
+    |       |-- MembersCard.vue
+    |       |-- PaypalCard.vue
+    |       |-- ProgressTrackList.vue
+    |       |-- StatsCards.vue
+    |       |-- TaskList.vue
+    |       |-- TimelineCard.vue
+    |       |-- VectorMapCard.vue
+    |       |-- VisaCard.vue
+    |-- layouts
+    |   |-- AuthLayout.vue
+    |   |-- DashboardLayout.vue
+    |   |-- error.vue
+    |-- middleware
+    |   |-- README.md
+    |-- pages
+    |   |-- alternative.vue
+    |   |-- calendar.vue
+    |   |-- charts.vue
+    |   |-- dashboard.vue
+    |   |-- index.vue
+    |   |-- lock.vue
+    |   |-- login.vue
+    |   |-- pricing.vue
+    |   |-- register.vue
+    |   |-- widgets.vue
+    |   |-- components
+    |   |   |-- buttons.vue
+    |   |   |-- cards.vue
+    |   |   |-- grid-system.vue
+    |   |   |-- icons.vue
+    |   |   |-- notifications.vue
+    |   |   |-- typography.vue
+    |   |-- forms
+    |   |   |-- components.vue
+    |   |   |-- elements.vue
+    |   |   |-- validation.vue
+    |   |-- maps
+    |   |   |-- API_KEY.js
+    |   |   |-- google.vue
+    |   |   |-- vector.vue
+    |   |-- pages
+    |   |   |-- timeline.vue
+    |   |   |-- user.vue
+    |   |-- tables
+    |       |-- paginated.vue
+    |       |-- regular.vue
+    |       |-- sortable.vue
     |-- plugins
-    |   |-- dashboard-plugin.js
-    |   |-- globalComponents.js
-    |   |-- globalDirectives.js
-    |-- routes
-    |   |-- router.js
-    |   |-- routes.js
-    |   |-- starterRouter.js
+    |   |-- README.md
+    |   |-- dashboard
+    |       |-- dashboard-plugin.js
+    |       |-- globalComponents.js
+    |       |-- globalDirectives.js
+    |       |-- directives
+    |           |-- click-outside.js
+    |-- static
+    |   |-- README.md
+    |   |-- favicon.png
+    |   |-- sw.js
+    |   |-- img
+    |       |-- brand
+    |       |   |-- favicon.png
+    |       |   |-- green.png
+    |       |   |-- white.png
+    |       |-- icons
+    |       |   |-- cards
+    |       |   |   |-- bitcoin.png
+    |       |   |   |-- mastercard.png
+    |       |   |   |-- paypal.png
+    |       |   |   |-- visa.png
+    |       |   |-- common
+    |       |   |   |-- github.svg
+    |       |   |   |-- google.svg
+    |       |   |-- flags
+    |       |       |-- DE.png
+    |       |       |-- GB.png
+    |       |       |-- US.png
+    |       |-- theme
+    |           |-- angular.jpg
+    |           |-- bootstrap.jpg
+    |           |-- img-1-1000x600.jpg
+    |           |-- img-1-1000x900.jpg
+    |           |-- landing-1.png
+    |           |-- landing-2.png
+    |           |-- landing-3.png
+    |           |-- profile-cover.jpg
+    |           |-- react.jpg
+    |           |-- sketch.jpg
+    |           |-- team-1.jpg
+    |           |-- team-2.jpg
+    |           |-- team-3.jpg
+    |           |-- team-4.jpg
+    |           |-- team-5.jpg
+    |           |-- vue.jpg
+    |-- store
+    |   |-- README.md
+    |   |-- index.js
     |-- util
-    |   |-- throttle.js
-    |-- views
-        |-- Charts.vue
-        |-- Widgets.vue
-        |-- Calendar
-        |   |-- Calendar.vue
-        |-- Components
-        |   |-- Buttons.vue
-        |   |-- Cards.vue
-        |   |-- GridSystem.vue
-        |   |-- Icons.vue
-        |   |-- Notifications.vue
-        |   |-- Typography.vue
-        |-- Dashboard
-        |   |-- ActivityFeed.vue
-        |   |-- AlternativeDashboard.vue
-        |   |-- Dashboard.vue
-        |   |-- LightTable.vue
-        |   |-- PageVisitsTable.vue
-        |   |-- ProgressTrackList.vue
-        |   |-- SocialTrafficTable.vue
-        |   |-- TaskList.vue
-        |   |-- UserList.vue
-        |-- Forms
-        |   |-- FormComponents.vue
-        |   |-- FormElements.vue
-        |   |-- FormValidation.vue
-        |   |-- FormValidation
-        |       |-- BrowserDefaultsValidation.vue
-        |       |-- CustomStylesValidation.vue
-        |       |-- ServerSideValidation.vue
-        |-- GeneralViews
-        |   |-- NotFoundPage.vue
-        |-- Layout
-        |   |-- Content.vue
-        |   |-- ContentFooter.vue
-        |   |-- DashboardLayout.vue
-        |   |-- DashboardNavbar.vue
-        |-- Maps
-        |   |-- API_KEY.js
-        |   |-- GoogleMaps.vue
-        |   |-- VectorMaps.vue
-        |-- Pages
-        |   |-- AuthLayout.vue
-        |   |-- Home.vue
-        |   |-- Lock.vue
-        |   |-- Login.vue
-        |   |-- Pricing.vue
-        |   |-- Register.vue
-        |   |-- TimeLinePage.vue
-        |   |-- UserProfile.vue
-        |   |-- UserProfile
-        |       |-- EditProfileForm.vue
-        |       |-- UserCard.vue
-        |-- Starter
-        |   |-- SampleFooter.vue
-        |   |-- SampleLayout.vue
-        |   |-- SampleNavbar.vue
-        |   |-- SamplePage.vue
-        |-- Tables
-        |   |-- PaginatedTables.vue
-        |   |-- RegularTables.vue
-        |   |-- SortableTables.vue
-        |   |-- projects.js
-        |   |-- users.js
-        |   |-- users2.js
-        |   |-- PaginatedTables
-        |   |   |-- clientPaginationMixin.js
-        |   |-- RegularTables
-        |       |-- CheckboxColoredTable.vue
-        |       |-- CheckboxTable.vue
-        |       |-- DarkTable.vue
-        |       |-- InlineActionsTable.vue
-        |       |-- LightTable.vue
-        |       |-- StripedTable.vue
-        |       |-- TranslucentTable.vue
-        |-- Widgets
-            |-- CalendarWidget.vue
-            |-- CreditCard.vue
-            |-- MembersCard.vue
-            |-- PaypalCard.vue
-            |-- ProgressTrackList.vue
-            |-- StatsCards.vue
-            |-- TaskList.vue
-            |-- TimelineCard.vue
-            |-- VectorMapCard.vue
-            |-- VisaCard.vue
+        |-- throttle.js
 ```
 
 ## Browser Support
@@ -288,12 +340,12 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- [Live Preview](https://demos.creative-tim.com/vue-argon-dashboard-pro/#/?ref=github-ad-pro-vue)
-- Buy Page: https://www.creative-tim.com/product/vue-argon-dashboard-pro?ref=github-ad-pro-vue
-- Documentation is [here](https://demos.creative-tim.com/vue-argon-dashboard-pro/#/documentation/overview?ref=github-ad-pro-vue)
-- License Agreement: https://www.creative-tim.com/license?ref=github-ad-pro-vue
-- Support: https://www.creative-tim.com/contact-us?ref=github-ad-pro-vue
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-vue-argon-dashboard-pro/issues)
+- [Live Preview](https://demos.creative-tim.com/nuxt-argon-dashboard-pro/#/?ref=github-ad-pro-vue)
+- Buy Page: https://www.creative-tim.com/product/nuxt-argon-dashboard-pro?ref=github-ad-pro-vue
+- Documentation is [here](https://demos.creative-tim.com/nuxt-argon-dashboard-pro/#/documentation/overview?ref=github-ad-pro-vue)
+- License Agreement: https://www.creative-tim.com/license?ref=github-ad-pro-nuxt
+- Support: https://www.creative-tim.com/contact-us?ref=github-ad-pro-nuxt
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-nuxt-argon-dashboard-pro/issues)
 - Vue Argon Dashboard- [demo](https://www.creative-tim.com/product/vue-argon-dashboard?ref=github-ad-pro-vue)
 - For Front End Development - [Vue Argon Design System](https://www.creative-tim.com/product/vue-argon-design-system?ref=github-ad-pro-vue)
 
@@ -306,20 +358,20 @@ We use GitHub Issues as the official bug tracker for the Vue Argon Dashboard PRO
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=github-ad-pro-vue) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=github-ad-pro-nuxt) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2018 Creative Tim (https://www.creative-tim.com?ref=github-ad-pro-react)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=github-ad-pro-vue)
+- Copyright 2019 Creative Tim (https://www.creative-tim.com?ref=github-ad-pro-nuxt)
+- Creative Tim [license](https://www.creative-tim.com/license?ref=github-ad-pro-nuxt)
 
 ## Useful Links
 
- - [More products](https://www.creative-tim.com/bootstrap-themes?ref=github-ad-pro-vue) from Creative Tim
+ - [More products](https://www.creative-tim.com/bootstrap-themes?ref=github-ad-pro-nuxt) from Creative Tim
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=github-ad-pro-vue) from Creative Tim
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=github-ad-pro-nuxt) from Creative Tim
 
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
 
