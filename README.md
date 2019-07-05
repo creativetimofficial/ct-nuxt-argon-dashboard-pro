@@ -60,6 +60,7 @@ Let us know your thoughts below. And good luck with development!
 ## Versions
 
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/html-logo.jpg" width="60" height="60"/>](https://www.creative-tim.com/product/argon-dashboard-pro)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nuxt.jpg" width="60" height="60"/>](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro)
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/laravel_logo.png" width="60" height="60" style="background:white;"/>](https://www.creative-tim.com/product/argon-dashboard-pro-laravel)
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nodejs-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-pro-nodejs)
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.png" width="60" height="60" style="background:white;"/>](https://www.creative-tim.com/product/argon-dashboard-pro-react)
