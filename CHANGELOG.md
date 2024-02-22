@@ -1,6 +1,15 @@
 # Changelog
 
-## [2.0.0] 2022-12-08
+## [2.1.0] 2024-02-22
+
+- Update dependencies & devDependencies
+- Add `Pinia` for state management.
+- Add slider component to `smart-home` using `vue3-slider`
+- Fix Sidebar issue on Mobile
+- Fix navbar notification menu issue
+- Fix issues that reloaded pages on each route change
+
+## [2.0.0] 2022-12-06
 
 - Fix errors
 - Update dependencies
