@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.1.1] 2024-08-29
+
+- Update dependencies
+
 ## [2.1.0] 2024-02-22
 
 - Update dependencies & devDependencies
